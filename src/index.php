@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+﻿<<!DOCTYPE html>
 <html>
 <head>
 	<title>test</title>
@@ -13,9 +13,11 @@
  			<tr>hello</tr>
  			hey voila une autre méthode ici
  			heloooooo
+			
  			everybody
  		</td>
  	</table>
  </form>
+<footer></footer>
 </body>
 </html>
