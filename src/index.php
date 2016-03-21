@@ -1,4 +1,23 @@
-<?php
-echo"test github Novo3bi";
-
-?>
+﻿<<!DOCTYPE html>
+<html>
+<head>
+	<title>test</title>
+</head>
+<body>
+ <form action="" method="Post">
+ 	<table>
+ 		<td>
+ 			<tr>hello</tr>
+ 		</td>
+ 		<td>
+ 			<tr>hello</tr>
+ 			hey voila une autre méthode ici
+ 			heloooooo
+			
+ 			everybody
+ 		</td>
+ 	</table>
+ </form>
+<footer></footer>
+</body>
+</html>
